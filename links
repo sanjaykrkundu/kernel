@@ -1,3 +1,11 @@
+PROBE
+========================
 https://www.kernel.org/doc/Documentation/driver-model/platform.txt
 https://linux-kernel-labs.github.io/master/labs/device_model.html
 https://narcisaam.github.io/Init_and_probe/
+https://stackoverflow.com/questions/7578582/who-calls-the-probe-of-driver
+https://stackoverflow.com/questions/9168885/when-does-the-probe-function-for-a-linux-kernel-driver-gets-called
+
+
+DTSI
+========================
